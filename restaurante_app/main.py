@@ -5,7 +5,7 @@ from modelos.cliente import Cliente
 from servicios.restaurante import Restaurante
 
 # Crear restaurante
-restaurante = Restaurante("Restaurante El Buen Sabor")
+restaurante = Restaurante("Restaurante El Bambú Cotundo")
 
 # Crear productos
 producto1 = Producto("Maito de Tilapia", 5.50)
